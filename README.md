@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://restt.io" target="_blank">
-    <img src="https://i.imgur.com/nAlPbln.png">
+    <img src="https://i.imgur.com/9e0Vt6h.png">
   </a>
 </p>
 
