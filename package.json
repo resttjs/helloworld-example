@@ -1,0 +1,23 @@
+{
+  "name": "restt-helloworld-example",
+  "version": "0.0.1",
+  "description": "A simple hello world service created with Restt",
+  "dependencies": {
+    "restt": "0.0.1",
+    "restt-cli": "0.0.1"
+  },
+  "scripts": {
+    "serve": "restt serve src/helloworld-service.js",
+    "deploy": "restt deploy src/helloworld-service.js",
+  },
+  "homepage": "https://github.com/resttjs/helloworld-example#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resttjs/helloworld-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/resttjs/helloworld-example/issues"
+  },
+  "author": "Daniel Larkin <daniel@larkin.nz>",
+  "license": "MIT"
+}
