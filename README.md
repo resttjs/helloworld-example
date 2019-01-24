@@ -108,6 +108,6 @@ $ restt deploy src/helloworld-service.js
 
 Congratulations - you've succesfully built and shipped your services to the edge using Cloudflare Workers and Restt!<br>
 
-Check out the [collection of more complex examples](https://github.com/resttjs/complex-example) which also includes a [Provider](#provider) using [Stripe](https://stripe.com) and [WorkersKV](https://developers.cloudflare.com/workers/kv/).<br>
+Check out the [store example repository](https://github.com/resttjs/store-example) which also includes a [Provider](#provider) using [Stripe](https://stripe.com) and [WorkersKV](https://developers.cloudflare.com/workers/kv/).<br>
 
 You can also check out the full [Restt Documentation](https://github.com/resttjs/restt#readme) and [Restt-CLI Documentation](https://github.com/resttjs/restt-cli#readme).

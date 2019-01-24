@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A simple hello world service created with Restt",
   "dependencies": {
-    "restt": "0.0.1",
+    "restt": "0.0.2",
     "restt-cli": "0.0.1"
   },
   "scripts": {
